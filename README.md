@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,postgres)](https://skillicons.dev)
 
 #### Frameworks and libraries:
-[![My Skills](https://skillicons.dev/icons?i=express,nextjs,react ,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nextjs,react,nodejs)](https://skillicons.dev)
 
 #### Tools:
 [![My Skills](https://skillicons.dev/icons?i=npm,git,github)](https://skillicons.dev)
